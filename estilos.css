@@ -228,7 +228,7 @@ html{
 .habilidades .contenido-seccion .fila{
     display: flex;
     justify-content: space-between;
-    margin-top: 30px;
+    margin-top: 31px;
 }
 
 .habilidades .contenido-seccion .fila .col{
